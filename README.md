@@ -352,7 +352,36 @@ ORDER BY year, month;
 
 
 
+**Visual Analysis  (PowerBI/Tableau)**
 
+ 1. Sales Performance 
+KPIs: Total revenue, number of won deals, average deal size
+ Revenue breakdown by industry, company, and sales agent
+
+ 3. Sales Funnel Analysis
+ Drop-off analysis at each stage (Prospecting → Engaging → Won/Lost)
+ Conversion rates at each stage
+
+ 5. Monthly Revenue Trends
+ Line chart showing monthly revenue trends
+ Forecasting for future revenue growth
+
+ 7. Sales Agent Performance
+ Ranking of agents based on closed deals & revenue
+ Win-rate comparison for different agents
+
+ 9. Product Performance Analysis
+ Top-selling products by revenue and deal count
+ Comparison of sales across different product series
+
+ 11. Industry & Regional Insights
+ Revenue contribution by sector
+ Performance by regional office
+
+
+Please Refer the Below Mentioned Link
+
+https://app.powerbi.com/groups/me/reports/e7f5fb18-63eb-449b-b609-83e811b93710/9a47df7ebe3ed0a8bb37?experience=power-bi
 
 
 
